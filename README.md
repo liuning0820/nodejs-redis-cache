@@ -3,7 +3,6 @@
 ```sh
 
 node redis-test.js
-
 node index.js
 
 ```
